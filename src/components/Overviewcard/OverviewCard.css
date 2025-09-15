@@ -1,0 +1,70 @@
+.card {
+  background: #fff;
+  border-radius:  6px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding:30px 40px;
+  padding-left:20px;
+  width:235px;
+
+}
+
+.card-title {
+  color: #320a6b;
+  font-family: Inter, sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+
+
+.card-body {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 19px;
+  margin-top:10px;
+}
+
+
+.value-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 6px; 
+}
+
+.card-value {
+  color: #000;
+  font-family: Inter, sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 80%;
+}
+
+.card-change {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.card-change.up {
+  color: #10C909; 
+}
+
+.card-change.down {
+  color: #C90909; 
+}
+
+.card-subtext{
+  color: #000;
+
+font-family: Inter;
+font-size: 15px;
+font-style: normal;
+font-weight: 600;
+}
+
+
+
+
