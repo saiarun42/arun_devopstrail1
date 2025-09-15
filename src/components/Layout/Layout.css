@@ -10,7 +10,7 @@
   position: fixed;
   top: 0;
   left: 0;
-  right: 0;
+  right: 0.4;
   height: 64px; /* same height as design (approx) */
     /* purple header */
   color: #320A6B;
