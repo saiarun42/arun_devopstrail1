@@ -48,7 +48,8 @@
 .layout-content {
   flex: 1;
   background: #f3f4f6;
-  padding: 27px 30px;
+
+  padding: 26px 30px;
 }
 
 .sidebar .side-icon {
